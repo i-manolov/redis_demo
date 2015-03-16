@@ -17,7 +17,6 @@
         <div class="row">
             <div class="col-xs-12 text-center">
                 <button type="button" class="btn btn-primary btn-lg" id="getDataBtn">Populate data and display</button>
-                <button type="button" class="btn btn-danger btn-lg" id="deleteDataBtn">Delete data</button>
                 <br />
                 <br />
             </div>
