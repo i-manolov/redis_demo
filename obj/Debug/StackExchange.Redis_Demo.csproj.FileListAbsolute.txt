@@ -1,0 +1,16 @@
+C:\Users\imanolov\Documents\Visual Studio 2012\StackExchange.Redis_Demo\StackExchange.Redis_Demo\bin\StackExchange.Redis_Demo.dll
+C:\Users\imanolov\Documents\Visual Studio 2012\StackExchange.Redis_Demo\StackExchange.Redis_Demo\bin\StackExchange.Redis_Demo.pdb
+C:\Users\imanolov\Documents\Visual Studio 2012\StackExchange.Redis_Demo\StackExchange.Redis_Demo\bin\StackExchange.Redis.dll
+C:\Users\imanolov\Documents\Visual Studio 2012\StackExchange.Redis_Demo\StackExchange.Redis_Demo\bin\StackExchange.Redis.pdb
+C:\Users\imanolov\Documents\Visual Studio 2012\StackExchange.Redis_Demo\StackExchange.Redis_Demo\bin\StackExchange.Redis.xml
+C:\Users\imanolov\Documents\Visual Studio 2012\StackExchange.Redis_Demo\StackExchange.Redis_Demo\obj\Debug\StackExchange.Redis_Demo.csprojResolveAssemblyReference.cache
+C:\Users\imanolov\Documents\Visual Studio 2012\StackExchange.Redis_Demo\StackExchange.Redis_Demo\obj\Debug\StackExchange.Redis_Demo.dll
+C:\Users\imanolov\Documents\Visual Studio 2012\StackExchange.Redis_Demo\StackExchange.Redis_Demo\obj\Debug\StackExchange.Redis_Demo.pdb
+C:\GitHub Repo\StackExchange.Redis_Demo\StackExchange.Redis_Demo\bin\StackExchange.Redis_Demo.dll
+C:\GitHub Repo\StackExchange.Redis_Demo\StackExchange.Redis_Demo\bin\StackExchange.Redis_Demo.pdb
+C:\GitHub Repo\StackExchange.Redis_Demo\StackExchange.Redis_Demo\bin\StackExchange.Redis.dll
+C:\GitHub Repo\StackExchange.Redis_Demo\StackExchange.Redis_Demo\bin\StackExchange.Redis.pdb
+C:\GitHub Repo\StackExchange.Redis_Demo\StackExchange.Redis_Demo\bin\StackExchange.Redis.xml
+C:\GitHub Repo\StackExchange.Redis_Demo\StackExchange.Redis_Demo\obj\Debug\StackExchange.Redis_Demo.csprojResolveAssemblyReference.cache
+C:\GitHub Repo\StackExchange.Redis_Demo\StackExchange.Redis_Demo\obj\Debug\StackExchange.Redis_Demo.dll
+C:\GitHub Repo\StackExchange.Redis_Demo\StackExchange.Redis_Demo\obj\Debug\StackExchange.Redis_Demo.pdb
