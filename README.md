@@ -12,5 +12,5 @@ To implement key expiration, please pass the expiration time as the third parame
 > Example: redisDB.StringSet(key, valToSave, TimeSpan.FromDays(expirationDays))
 
 ####Further Information####
-Go to the official [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis).
+Go to the official documentation for [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis).
 
